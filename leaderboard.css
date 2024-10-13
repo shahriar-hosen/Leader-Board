@@ -1,0 +1,105 @@
+.bg-blue{
+    background-color: #562EFF
+}
+.navbar a{
+    color: white;
+    font-weight: bold;
+}
+.brand-logo{
+    height: 51px;
+}
+.top-profile{
+    height: 51px;
+    width: 51px;
+}
+.pink-white-bg{
+    background-color: #f3f1ff;
+}
+h2{
+    color: #562EFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 24px;
+    font-weight: medium;
+    padding: 10px 0px 15px;
+    
+}
+h5{
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: medium;
+}
+.top-player{
+    padding: 30px;
+}
+.top-player img{
+    height: 56px;
+    width: 56px;
+}
+.blog img{
+    height: 117px;
+    width: 177px;
+}
+.blog h4{
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    font-weight: medium;
+}
+.blog h6{
+    color: #562EFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    
+}
+.card{
+    padding: 8px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.latest-course{
+    padding: 30px;
+}
+.card-body{
+   margin-left: -12px;
+}
+
+.card-title{
+    color: #1E1E1E;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    
+}
+.card-text{
+    color: #ED6B4F;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+.star{
+    height: 11.81px;
+    width: 12.39px;
+}
+.low{
+    height: 11.81px;
+    width: 12.39px;
+    filter: invert(60%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(90%) contrast(100%);
+}
+ .rating{
+    color: #A2A2A2;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    display: inline;
+}
+.clock-time{
+    display: inline-block;
+}
+.clock{
+    width: 20px;
+    height: 20px;
+}
+.time{
+    color: #FF4A60;
+    display: inline;
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
